@@ -1,0 +1,21 @@
+{
+  "name": "0 - boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Damien Varron <damien@varron.fr>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3"
+  }
+}
